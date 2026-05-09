@@ -1,16 +1,24 @@
-## Hi there 👋
+# Tyler Smith
 
-<!--
-**codewithty/codewithty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programming student at LaGuardia Community College focused on software development, web development, and building practical projects.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Java
+- Swift / SwiftUI
+- HTML, CSS, and JavaScript
+- Object-Oriented Programming
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Personal Portfolio Website
+- KovaaK's Tracker
+- Java practice projects
+
+## Goals
+- Build stronger programming fundamentals
+- Create polished portfolio projects
+- Prepare for internships and software development opportunities
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/tylersmith777
+- Tiktok: https://www.tiktok.com/@codewithty7
