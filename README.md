@@ -19,6 +19,6 @@ I'm a programming student at LaGuardia Community College focused on software dev
 - Create polished portfolio projects
 - Prepare for internships and software development opportunities
 
-## Links
+## Connect with me
 - LinkedIn: https://www.linkedin.com/in/tylersmith777
-- Tiktok: https://www.tiktok.com/@codewithty7
+- Email: tyler88967@gmail.com
