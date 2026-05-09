@@ -1,6 +1,6 @@
 # Tyler Smith
 
-I'm a programming student at LaGuardia Community College focused on software development, web development, and building practical projects.
+I'm a programming student at LaGuardia Community College focused on software development, web development, and building practical applications while strengthening my programming fundamentals.
 
 ## Currently Learning
 - Java
