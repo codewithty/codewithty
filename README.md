@@ -1,6 +1,6 @@
 # Tyler Smith
 
-I'm a programming student at LaGuardia Community College focused on software development, web development, and building practical applications while strengthening my programming fundamentals.
+Programming student focused on web development, Java, SwiftUI, and building practical projects to work on fundamentals.
 
 ## Currently Learning
 - Java
@@ -12,7 +12,7 @@ I'm a programming student at LaGuardia Community College focused on software dev
 ## Current Projects
 - Personal Portfolio Website
 - KovaaK's Tracker
-- Java practice projects
+- Small Java programs focused on fundamentals and object-oriented programming
 
 ## Goals
 - Build stronger programming fundamentals
