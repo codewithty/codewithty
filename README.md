@@ -1,24 +1,25 @@
-# Tyler Smith
+Hi, I'm Tyler 
 
-Programming student focused on web development, Java, SwiftUI, and building practical projects to work on fundamentals.
+Programming & Software Development student at LaGuardia Community College and Summer Research Intern at the Air Force Research Laboratory (AFRL).
 
-## Currently Learning
-- Java
-- Swift / SwiftUI
-- HTML, CSS, and JavaScript
-- Object-Oriented Programming
-- Git and GitHub
+Current Focus
+Building MyInternLog (SwiftUI)
+Gaining research experience through AFRL
+Strengthening software engineering fundamentals
+Growing as a developer through projects and hands-on learning
+Featured Projects
+MyInternLog
 
-## Current Projects
-- Personal Portfolio Website
-- KovaaK's Tracker
-- Small Java programs focused on fundamentals and object-oriented programming
+An iOS application that helps interns track accomplishments, reflections, learning progress, and resume-ready achievements.
 
-## Goals
-- Build stronger programming fundamentals
-- Create polished portfolio projects
-- Prepare for internships and software development opportunities
+Habit Tracker
 
-## Connect with me
-- LinkedIn: https://www.linkedin.com/in/tylersmith777
-- Email: tyler88967@gmail.com
+Collaborative project focused on habit tracking and user productivity.
+
+KovaaK's Tracker
+
+Tool for tracking training sessions and performance progress.
+
+Connect
+LinkedIn: linkedin.com/in/tylersmith777
+Portfolio: codewithty.github.io/portfolio-tyler
