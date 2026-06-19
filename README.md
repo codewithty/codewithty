@@ -1,25 +1,30 @@
-Hi, I'm Tyler 
+# Tyler Smith
 
-Programming & Software Development student at LaGuardia Community College and Summer Research Intern at the Air Force Research Laboratory (AFRL).
+Programming & Software Development student at LaGuardia Community College, AFRL Summer Research Intern, and aspiring software engineer focused on building practical software projects.
 
-Current Focus
-Building MyInternLog (SwiftUI)
-Gaining research experience through AFRL
-Strengthening software engineering fundamentals
-Growing as a developer through projects and hands-on learning
-Featured Projects
-MyInternLog
+## Current Focus
 
-An iOS application that helps interns track accomplishments, reflections, learning progress, and resume-ready achievements.
+* Building MyInternLog, an iOS app for tracking internship accomplishments and reflections
+* Gaining research experience through the Air Force Research Laboratory
+* Strengthening programming fundamentals through coursework and projects
+* Improving my GitHub, portfolio, and technical communication
 
-Habit Tracker
+## Projects
 
-Collaborative project focused on habit tracking and user productivity.
+* **MyInternLog** — iOS app built with SwiftUI to help interns track accomplishments, reflections, learning progress, and resume-ready achievements.
+* **Habit Tracker** — Collaborative habit tracking project focused on productivity and consistency.
+* **KovaaK's Tracker** — Web app for tracking aim training sessions, scores, and progress.
+* **Portfolio Website** — Personal portfolio showcasing projects, experience, and software development growth.
 
-KovaaK's Tracker
+## Currently Learning
 
-Tool for tracking training sessions and performance progress.
+* Swift / SwiftUI
+* Java
+* JavaScript
+* Object-Oriented Programming
+* Git and GitHub
 
-Connect
-LinkedIn: linkedin.com/in/tylersmith777
-Portfolio: codewithty.github.io/portfolio-tyler
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/tylersmith777
+* Portfolio: https://codewithty.github.io/portfolio-tyler
