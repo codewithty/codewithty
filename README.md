@@ -10,9 +10,9 @@ Programming & Software Development student at LaGuardia Community College (CUNY)
 
 ## Projects
 
-* MyInternLog**: iOS app built with SwiftUI for tracking internship accomplishments, reflections, and resume-ready achievements.
-* KovaaK's Tracker**: Web app for logging aim training sessions, scores, and progress over time.
-* Portfolio Website**: Personal portfolio with projects and experience.
+* **MyInternLog**: iOS app built with SwiftUI for tracking internship accomplishments, reflections, and resume-ready achievements.
+* **KovaaK's Tracker**: Web app for logging aim training sessions, scores, and progress over time.
+* **Portfolio Website**: Personal portfolio with projects and experience.
 
 ## Tech
 
