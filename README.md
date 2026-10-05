@@ -6,14 +6,14 @@ Programming & Software Development student at LaGuardia Community College (CUNY)
 
 * iOS development intern at What's the Move: building SwiftUI features in a team codebase with PR review
 * Completed a summer research internship at the Air Force Research Laboratory (Rome, NY) [add one line on the research topic once your supervisor clears it]
-* Learning Java and Python through coursework, with a hand-built project in progress
+* Building stronger fundamentals in data structures and algorithms through LeetCode practice in Python
 
 ## Projects
 
-* **MyInternLog**: iOS app built with SwiftUI for tracking internship accomplishments, reflections, and resume-ready achievements.
-* **Habit Tracker**: Team project in JavaScript. I built [your specific feature or piece].
-* **KovaaK's Tracker**: Web app for logging aim training sessions, scores, and progress over time.
-* **Portfolio Website**: Personal portfolio with projects and experience.
+* MyInternLog**: iOS app built with SwiftUI for tracking internship accomplishments, reflections, and resume-ready achievements.
+* Habit Tracker**: Team project in JavaScript. I built [your specific feature or piece].
+* KovaaK's Tracker**: Web app for logging aim training sessions, scores, and progress over time.
+* Portfolio Website**: Personal portfolio with projects and experience.
 
 ## Tech
 
