@@ -1,30 +1,25 @@
 # Tyler Smith
 
-Programming & Software Development student at LaGuardia Community College, AFRL Summer Research Intern, and aspiring software engineer focused on building practical software projects.
+Programming & Software Development student at LaGuardia Community College (CUNY). AFRL summer research intern and iOS development intern at What's the Move.
 
 ## Current Focus
 
-* Building MyInternLog, an iOS app for tracking internship accomplishments and reflections
-* Gaining research experience through the Air Force Research Laboratory
-* Strengthening programming fundamentals through coursework and projects
-* Improving my GitHub, portfolio, and technical communication
+* iOS development intern at What's the Move: building SwiftUI features in a team codebase with PR review
+* Completed a summer research internship at the Air Force Research Laboratory (Rome, NY) [add one line on the research topic once your supervisor clears it]
+* Learning Java and Python through coursework, with a hand-built project in progress
 
 ## Projects
 
-* **MyInternLog** — iOS app built with SwiftUI to help interns track accomplishments, reflections, learning progress, and resume-ready achievements.
-* **Habit Tracker** — Collaborative habit tracking project focused on productivity and consistency.
-* **KovaaK's Tracker** — Web app for tracking aim training sessions, scores, and progress.
-* **Portfolio Website** — Personal portfolio showcasing projects, experience, and software development growth.
+* **MyInternLog**: iOS app built with SwiftUI for tracking internship accomplishments, reflections, and resume-ready achievements.
+* **Habit Tracker**: Team project in JavaScript. I built [your specific feature or piece].
+* **KovaaK's Tracker**: Web app for logging aim training sessions, scores, and progress over time.
+* **Portfolio Website**: Personal portfolio with projects and experience.
 
-## Currently Learning
+## Tech
 
-* Swift / SwiftUI
-* Java
-* JavaScript
-* Object-Oriented Programming
-* Git and GitHub
+Swift, SwiftUI, Java, Python, JavaScript, React, Git and GitHub
 
-## Connect
+## Contact
 
 * LinkedIn: https://www.linkedin.com/in/tylersmith777
 * Portfolio: https://codewithty.github.io/portfolio-tyler
