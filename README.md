@@ -5,7 +5,7 @@ Programming & Software Development student at LaGuardia Community College (CUNY)
 ## Current Focus
 
 * iOS development intern at What's the Move: building SwiftUI features in a team codebase with PR review
-* Completed a summer research internship at the Air Force Research Laboratory (Rome, NY) [add one line on the research topic once your supervisor clears it]
+* Completed a summer research internship at the Air Force Research Laboratory
 * Building stronger fundamentals in data structures and algorithms through LeetCode practice in Python
 
 ## Projects
