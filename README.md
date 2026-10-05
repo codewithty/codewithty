@@ -1,6 +1,6 @@
 # Tyler Smith
 
-Programming & Software Development student at LaGuardia Community College (CUNY). AFRL summer research intern and iOS development intern at What's the Move.
+Programming & Software Development student at LaGuardia Community College (CUNY) | Previous AFRL AI Security Research Intern | iOS development Intern @What's the Move
 
 ## Current Focus
 
